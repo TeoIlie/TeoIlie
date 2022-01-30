@@ -8,4 +8,4 @@
 [linkedin]: https://www.linkedin.com/in/teodorilie/
 [facebook]: https://www.facebook.com/profile.php?id=100004509104826
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoilie&show_icons=true&theme=dracula)
+[![Teo's github stats](https://github-readme-stats.vercel.app/api?username=teoilie&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
