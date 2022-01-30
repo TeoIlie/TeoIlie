@@ -4,8 +4,8 @@
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/color/48/4a90e2/linkedin.png" />][linkedin]
 [<img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/ios-filled/150/4a90e2/facebook-new.png" />][facebook]
 [<img align="left" alt="BrickSafe" width="25px" src="https://img.icons8.com/ios-filled/50/26e07f/plugin.png"/>][bricksafe]
-
 <br />
+
 
 [youtube]: https://www.youtube.com/user/TeoTechnicTaken
 [linkedin]: https://www.linkedin.com/in/teodorilie/
