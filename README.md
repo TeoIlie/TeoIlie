@@ -5,7 +5,7 @@
 [<img align="left" alt="Luis Mangubat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-[website]: https://luismangubat.com
+[youtube]: https://www.youtube.com/user/TeoTechnicTaken
 [instagram]: https://instagram.com/thepipedream_
 [linkedin]: https://linkedin.com/in/joseluismangubat
 [Kaggle]: https://www.kaggle.com/luismangubat
