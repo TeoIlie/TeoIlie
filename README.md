@@ -4,7 +4,7 @@
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/color/48/4a90e2/linkedin.png" />][linkedin]
 [<img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/ios-filled/150/4a90e2/facebook-new.png" />][facebook]
 [<img align="left" alt="BrickSafe" width="25px" src="https://img.icons8.com/ios-filled/50/26e07f/plugin.png"/>][bricksafe]
-[<img align="left" alt="Strava" width="25px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/26e07f/external-strava-mobile-app-and-website-connect-runners-and-cyclists-logo-color-tal-revivo.png" />][strava]
+[<img align="left" alt="Strava" width="25px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/26e07f/external-strava-mobile-app-and-website-connect-runners-and-cyclists-logo-color-tal-revivo.png" />][strava]
 <br />
 
 
