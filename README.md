@@ -1,5 +1,5 @@
 ### Socials
-[<img align="left" alt="https://www.youtube.com/user/TeoTechnicTaken" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Luis Mangubat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Luis Mangubat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][instagram]
 [<img align="left" alt="Luis Mangubat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
