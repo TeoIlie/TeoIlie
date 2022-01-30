@@ -1,4 +1,5 @@
-> I'm Teo, welcome to my Github! 
+## I'm Teo, welcome to my Github 🧬! 
+I have a Bachelor's of Computer Science from Queen's University, and I am passionate about Data Analytics and Artificial Intelligence. My current work experience includes interning as a BA at BMO Financial Group for two summers, working as a host and busser at Jack Astor's, as well as working in landscaping and sales at the LEGO store in Yorkdale mall, Toronto. 
 ### Social Media
 [<img align="left" alt="Youtube" width="25px" src="https://img.icons8.com/ios-filled/150/fa314a/youtube-play.png" />][youtube]
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/color/240/26e07f/linkedin.png" />][linkedin]
