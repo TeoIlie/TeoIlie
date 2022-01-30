@@ -1,4 +1,4 @@
-## I'm Teo, welcome to my Github 🧬! 
+## I'm Teo, welcome to my Github! 🧬 
 - 💻 I have a Bachelor's of Computer Science from Queen's University, with a 4.0/4.3 GPA
 - 🤖 I am passionate about Data Analytics and Artificial Intelligence
 - 🏦 My current work experience includes interning as a BA at BMO Financial Group for two summers
