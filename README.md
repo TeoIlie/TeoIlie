@@ -1,8 +1,8 @@
 > I'm Teo, welcome to my Github!
 ### Social Media
 [<img align="left" alt="Youtube" width="25px" src="https://img.icons8.com/ios-filled/150/fa314a/youtube-play.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/ios-filled/150/4a90e2/linkedin.png" />][linkedin]
+[<img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/ios-filled/150/4a90e2/facebook-new.png" />][facebook]
 <br />
 
 [youtube]: https://www.youtube.com/user/TeoTechnicTaken
