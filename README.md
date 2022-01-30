@@ -1,4 +1,4 @@
-> I'm Teo, welcome to my Github!
+> I'm Teo 👾, welcome to my Github!
 ### Social Media
 [<img align="left" alt="Youtube" width="25px" src="https://img.icons8.com/ios-filled/150/fa314a/youtube-play.png" />][youtube]
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/color/48/4a90e2/linkedin.png" />][linkedin]
