@@ -19,4 +19,4 @@
 [strava]: https://www.strava.com/athletes/9039374
 
 [![Teo's github stats](https://github-readme-stats.vercel.app/api?username=teoilie&count_private=true&show_icons=true&theme=dracula&hide_rank=false&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teoilie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teoilie&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
