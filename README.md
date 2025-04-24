@@ -1,7 +1,7 @@
 ## I'm Teo, welcome to my Github! 🧬 
 - 🤖 I am a MSc Student at Queen's University researching AI & Robotics
 - 🛠 Previously, I earned a Bachelor's of Computer Science from Queen's University, with a 4.0/4.3 GPA
-- 🤖 I am passionate about Data Analytics, Artificial Intelligence, Web Development, and Robotics
+- ⚙️ I am passionate about Data Analytics, Artificial Intelligence, Web Development, and Robotics
 - 🏦 I am a Full-Stack Software Dev @ BMO Financial Group, specializing in Angular and SpringBoot REST APIs
 
 ### Social Media
