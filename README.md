@@ -1,8 +1,8 @@
-## I'm Teo, welcome to my Github! 🧬 
+## I'm Teo Ilie, welcome to my Github! 🧬 
 - 🤖 I am a MSc Student at Queen's University researching AI & Robotics
+- 🏦 I am a Full-Stack Software Dev @ BMO Financial Group, specializing in Angular and SpringBoot REST APIs
 - 🛠 Previously, I earned a Bachelor's of Computer Science from Queen's University, with a 4.0/4.3 GPA
 - ⚙️ I am passionate about Data Analytics, Artificial Intelligence, Web Development, and Robotics
-- 🏦 I am a Full-Stack Software Dev @ BMO Financial Group, specializing in Angular and SpringBoot REST APIs
 
 ### Social Media
 [<img align="left" alt="Personal Website" width="25px" src="https://img.icons8.com/ios-filled/100/4a90e2/internet--v1.png" />][personal]
