@@ -20,5 +20,5 @@
 [bricksafe]: https://bricksafe.com/pages/Teo_LEGO_Technic
 [strava]: https://www.strava.com/athletes/9039374
 
-[![Teo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoilie&count_private=true&show_icons=true&theme=dracula&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teoilie&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Teo's GitHub Stats](https://github-readme-stats-mauve-chi-31.vercel.app/api?username=teoilie&count_private=true&show_icons=true&theme=dracula&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-mauve-chi-31.vercel.app/api/top-langs/?username=teoilie&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
