@@ -1,5 +1,5 @@
 ## Hi, I'm Teodor "Teo" Ilie — check out my [personal website!](https://teoilie.com) 🧬
-- 🤖 MSc Student at Queen's University researching AI & Robotics
+- 🤖 MSc Student at Queen's University researching AI & Robotics (4.3/4.3 GPA)
 - 🏦 Full-Stack Software Developer at BMO Financial Group (Angular & Spring Boot REST APIs)
 - 🎓 Bachelor's in Computer Science from Queen's University (4.0/4.3 GPA)
 - ⚙️ Passionate about Data Analytics, Artificial Intelligence, Web Development, and Robotics
