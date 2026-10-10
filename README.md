@@ -1,4 +1,5 @@
 ## Hi, I'm Teodor "Teo" Ilie — check out my [personal website!](https://teoilie.com) 🧬
+- ⛏️ Autonomy Team @ MacLean Engineering
 - 🤖 MSc Student at Queen's University researching AI & Robotics (4.3/4.3 GPA)
 - 🏦 Full-Stack Software Developer at BMO Financial Group (Angular & Spring Boot REST APIs)
 - 🎓 Bachelor's in Computer Science from Queen's University (4.0/4.3 GPA)
@@ -20,5 +21,5 @@
 [bricksafe]: https://bricksafe.com/pages/Teo_LEGO_Technic
 [strava]: https://www.strava.com/athletes/9039374
 
-[![Teo's GitHub Stats](https://github-readme-stats-mauve-chi-31.vercel.app/api?username=teoilie&count_private=true&show_icons=true&theme=dracula&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-mauve-chi-31.vercel.app/api/top-langs/?username=teoilie&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Teo's GitHub Stats](https://github-readme-stats-mauve-chi-31.vercel.app/api?username=teoilie&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-mauve-chi-31.vercel.app/api/top-langs/?username=teoilie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
